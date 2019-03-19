@@ -1,0 +1,27 @@
+﻿body {
+    background-color: darkred;
+    border-style: double;
+}
+iframe {
+    height: 750px;
+    width: 100%;
+}
+#welcome {
+    text-align: center;
+    font-size: 100px;
+    font-color: DarkGrey;
+}
+#title {
+    font-style: italic;
+    background-color: maroon;
+}
+#link {
+    text-align: center;
+    font-color: DarkGrey;
+}
+.container-fluid{
+    background-color: darkred;
+}
+.card-body{
+    background-color: dimgray;
+}
